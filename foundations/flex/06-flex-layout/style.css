@@ -34,7 +34,7 @@ body {
 .header, .footer {
   display: flex;
   justify-content: space-between;
-  padding: 10px;
+  padding: 16px;
 }
 
 .content {

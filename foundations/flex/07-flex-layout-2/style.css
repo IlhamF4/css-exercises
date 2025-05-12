@@ -44,11 +44,18 @@ body {
   padding: 16px;
 }
 
+.content {
+  flex: 1;
+}
+
 .card-container {
   flex-wrap: wrap;
-  justify-content: space-around;
-  gap: 10px;
+  gap: 16px;
   padding: 48px;
+}
+
+.card {
+  width: 300px;
 }
 
 .sidebar {
